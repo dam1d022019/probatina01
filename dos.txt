@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 TRABAJANDO EN MASTER
+=======
+DESARROLLO
+>>>>>>> desarrollo
 dos
 cambiado de desarrollo

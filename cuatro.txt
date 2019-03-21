@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 MASTER
+=======
+DESARROLLO
+>>>>>>> desarrollo
 444444444
 qqqqqqqqqqqq
